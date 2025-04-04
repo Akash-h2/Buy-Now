@@ -1,12 +1,37 @@
-# React + Vite
+🛍️ E-Commerce Website
+A modern, fully functional e-commerce web application built with React (Vite), Context API, Tailwind CSS, and Local Storage.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+Home Page 🏠 – Hero section with images and featured products.
 
-Currently, two official plugins are available:
+Product Listing Page 📦 – Displays all available products.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Product Details Page 🔍 – Individual product descriptions, prices, and images.
 
-## Expanding the ESLint configuration
+Cart Page 🛒 – Add/remove products and proceed to checkout.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Checkout Page ✅ – Allows users to place dummy orders (only if logged in).
+
+User Authentication 🔐 – Login & Signup functionality.
+
+AI Chatbot 🤖 – Provides product suggestions using Gemini AI.
+
+React Toastify Alerts 🔔 – Success & error notifications.
+
+Local Storage Integration 💾 – Saves cart data for persistence.
+
+Responsive Design 📱 – Fully optimized for mobile and desktop.
+
+🏗 Tech Stack
+Frontend: React (Vite), Tailwind CSS
+
+State Management: Context API
+
+AI Chatbot: Google Gemini AI
+
+Notifications: React Toastify
+
+Storage: Local Storage
+
+🚀 Live Demo
+🔗 Deployed on Vercel
