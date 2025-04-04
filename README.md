@@ -51,6 +51,9 @@ Storage: Local Storage
 
 ![Screenshot 2025-04-04 122921](https://github.com/user-attachments/assets/712f26f5-969e-4183-8135-06166b5f4d70)
 
+![Screenshot 2025-04-04 123735](https://github.com/user-attachments/assets/18fd69dc-5045-4fe7-9b18-584b79c1b35f)
+
+
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and create pull requests.
