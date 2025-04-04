@@ -1,6 +1,6 @@
 🛍️ E-Commerce Website
 
-A modern, fully functional e-commerce web application built with React (Vite), Context API, Tailwind CSS, and Local Storage.
+Buy Now, a fully functional modern  e-commerce web application built with React (Vite), Context API, Tailwind CSS, and Local Storage.
 
 🚀 Features
 
